@@ -4,7 +4,7 @@
 //
 //  Created by Mars on 16/1/19.
 //  Copyright © 2016年 Mars. All rights reserved.
-//
+// http://cocoanuts.mobi/2014/03/26/reusable/
 
 #import "CustomView.h"
 #import "UIView+NibLoading.h"
